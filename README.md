@@ -1,7 +1,8 @@
-# Python and Computer Vision for Smart Cities
+# Python and Computer Vision for Smart Cities: Applications in Airports, Heliports, and Urban Mobility
 
-Official companion repository for the book:
-Companion code and practical workshops for Smart City, Airport, and UAM Computer Vision systems using Python and YOLO
+This repository provides practical implementations, guided workshops, and applied examples for building real-world Computer Vision systems in Smart Cities, airports, heliports, and Urban Air Mobility (UAM) environments.
+
+The code complements the book’s theoretical foundations and demonstrates how to deploy YOLO-based object detection pipelines using Python and OpenCV in operational infrastructure scenarios.
 
 **"Python and Computer Vision for Smart Cities: Applications in Airports, Heliports, and Urban Mobility"**  
 By Estevan R. Gómez Torres
